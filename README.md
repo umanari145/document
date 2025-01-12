@@ -6,3 +6,4 @@
  - MakingTestData・・テストデータ作成など
  - Scrum・・スクラム開発について
  - CareerLiteracy・・キャリアリテラシー
+ - Error.md・・エラーやログ調査について
