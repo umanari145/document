@@ -79,8 +79,8 @@
     - 非常に基本的なコンテナ機能のみ
     - オートスケーリング機能が限定的
 
-学習コスト: LightSail < Lambda < App Runner < Beanstalk < ECS < EKS
-運用負荷: Lambda < App Runner < LightSail < Beanstalk < ECS  < EKS
+学習コスト: LightSail < Lambda < App Runner < Beanstalk < ECS < EKS<br>
+運用負荷: Lambda < App Runner < LightSail < Beanstalk < ECS  < EKS<br>
 機能の豊富さ: EKS > ECS > Beanstalk > App Runner > Lambda > LightSail
 
 ## 参考文献
