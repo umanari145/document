@@ -10,3 +10,5 @@
  - Evidence.md・・エビデンスについて
  - UpstreamProcess・・上流工程について
  - CodeReview.md・・コードレビューについて
+ - Research.md・・リサーチについて
+ - TestAndDebug.md・・テストとデバッグについて
